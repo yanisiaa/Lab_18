@@ -1,0 +1,29 @@
+.footer {
+    background: linear-gradient(to right, #164a69, #f3fbfe);
+    padding: 0.5rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    height: 50px;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.03);
+    margin-top: auto;
+  }
+  
+  .footer p {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 0.8rem;
+  }
+  
+  .social-icons a {
+    color: #227c9d;
+    font-size: 1.1rem;
+    margin-left: 0.8rem;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: #145374;
+  }
+  

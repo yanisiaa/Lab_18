@@ -1,0 +1,31 @@
+:root {
+  --deep-burgundy: #89425F;
+  --pink: #D26487;
+  --light-pink: #D9BDC8;
+  --very-light-pink: #E4DDDF;
+  --dark-green: #131609;
+
+  --font-main: 'Segoe UI', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--very-light-pink);
+  color: var(--dark-green);
+  font-family: var(--font-main);
+}
+
+a {
+  color: var(--deep-burgundy);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--pink);
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  color: var(--deep-burgundy);
+}
