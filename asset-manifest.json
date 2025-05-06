@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Lab_18/static/css/main.fa44f8e8.css",
+    "main.js": "/Lab_18/static/js/main.90813cec.js",
+    "static/media/kramatorsk.jpg": "/Lab_18/static/media/kramatorsk.8ecc2385fdcfb9e544a8.jpg",
+    "static/media/photo_2025-05-06_01-21-47.jpg": "/Lab_18/static/media/photo_2025-05-06_01-21-47.bf71d32c5290723d9a53.jpg",
+    "static/media/meme2.jpg": "/Lab_18/static/media/meme2.f38cc97c8de295432f86.jpg",
+    "static/media/meme3.jpg": "/Lab_18/static/media/meme3.372153e5517f946137c8.jpg",
+    "static/media/meme1.jpg": "/Lab_18/static/media/meme1.bc7c825c90d4d1d25035.jpg",
+    "index.html": "/Lab_18/index.html",
+    "main.fa44f8e8.css.map": "/Lab_18/static/css/main.fa44f8e8.css.map",
+    "main.90813cec.js.map": "/Lab_18/static/js/main.90813cec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa44f8e8.css",
+    "static/js/main.90813cec.js"
+  ]
+}
